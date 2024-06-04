@@ -1,0 +1,13 @@
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\obj\Debug\net6.0\Dolphin.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\obj\Debug\net6.0\Dolphin.Core.AssemblyInfoInputs.cache
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\obj\Debug\net6.0\Dolphin.Core.AssemblyInfo.cs
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\obj\Debug\net6.0\Dolphin.Core.csproj.CoreCompileInputs.cache
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\obj\Debug\net6.0\Dolphin.Core.sourcelink.json
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\bin\Debug\net6.0\Dolphin.Core.deps.json
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\bin\Debug\net6.0\Dolphin.Core.dll
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\bin\Debug\net6.0\Dolphin.Core.pdb
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\obj\Debug\net6.0\Dolphin.Core.csproj.AssemblyReference.cache
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\obj\Debug\net6.0\Dolphin.Core.dll
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\obj\Debug\net6.0\refint\Dolphin.Core.dll
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\obj\Debug\net6.0\Dolphin.Core.pdb
+C:\Users\GF65\source\repos\Dolphin\Dolphin.Core\obj\Debug\net6.0\ref\Dolphin.Core.dll
